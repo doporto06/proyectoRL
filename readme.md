@@ -8,3 +8,6 @@
 #### 3. ejecutar el random-agent.py para ver si se instaló correctamente (si da error AttributeError: 'mujoco._structs.MjData' object has no attribute 'solver_iter'. Did you mean: 'solver_niter'?, ir al archivo mujoco_rendering.py y cambiar solver_iter por solver_niter)
 
 ## Repositorios de Cassie Robot
+
+### Repositorio oficial en Mujoco creado por "Agility Robotics": https://github.com/osudrl/cassie-mujoco-sim
+### Repositorio similar creado por "siekmanj", ingeniero en software de Agility Robotics: https://github.com/siekmanj/cassie
