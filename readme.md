@@ -7,6 +7,9 @@
 
 #### 3. ejecutar el random-agent.py para ver si se instaló correctamente (si da error AttributeError: 'mujoco._structs.MjData' object has no attribute 'solver_iter'. Did you mean: 'solver_niter'?, ir al archivo mujoco_rendering.py y cambiar solver_iter por solver_niter)
 
+#### 4. instalar el repositorio del ambiente gym de cassie: https://github.com/perrin-isir/gym-cassie-run (yo segui las instrucciones del pip install dentro de mi ambiente conda)
+
+#### 5. nose porque pero a mi no se me instaló la carpeta assets que debería estar en gym_cassie_run/env y me tiró un error la primera vez, basta con descargar el repo y pegar la carpeta en ese directorio
 ## Repositorios de Cassie Robot
 
 #### Repositorio oficial en Mujoco creado por "Agility Robotics": https://github.com/osudrl/cassie-mujoco-sim
