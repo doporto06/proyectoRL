@@ -6,3 +6,5 @@
 ```pip install stable-baselines3[extra]```
 
 #### 3. ejecutar el random-agent.py para ver si se instaló correctamente (si da error AttributeError: 'mujoco._structs.MjData' object has no attribute 'solver_iter'. Did you mean: 'solver_niter'?, ir al archivo mujoco_rendering.py y cambiar solver_iter por solver_niter)
+
+## Repositorios de Cassie Robot
