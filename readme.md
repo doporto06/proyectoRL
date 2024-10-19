@@ -14,3 +14,4 @@
 
 #### Repositorio oficial en Mujoco creado por "Agility Robotics": https://github.com/osudrl/cassie-mujoco-sim
 #### Repositorio similar creado por "siekmanj", ingeniero en software de Agility Robotics: https://github.com/siekmanj/cassie
+#### Repositorio similar creado por "Perrin-Gilbert": https://github.com/perrin-isir/gym-cassie-run
